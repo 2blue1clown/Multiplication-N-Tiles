@@ -53,7 +53,7 @@ border_width_bottom = 5
 border_color = Color( 1, 1, 1, 1 )
 
 [sub_resource type="DynamicFont" id=7]
-size = 32
+size = 24
 outline_color = Color( 0, 0, 0, 1 )
 font_data = ExtResource( 1 )
 
@@ -83,7 +83,7 @@ LineEdit/colors/clear_button_color = Color( 1, 1, 1, 1 )
 LineEdit/colors/clear_button_color_pressed = Color( 1, 1, 1, 1 )
 LineEdit/colors/cursor_color = Color( 1, 1, 1, 1 )
 LineEdit/colors/font_color = Color( 1, 1, 1, 1 )
-LineEdit/colors/font_color_selected = Color( 0.121569, 0.117647, 0.117647, 1 )
+LineEdit/colors/font_color_selected = Color( 1, 1, 1, 0 )
 LineEdit/colors/font_color_uneditable = Color( 0.88, 0.88, 0.88, 0.5 )
 LineEdit/colors/selection_color = Color( 0.121569, 0.117647, 0.117647, 1 )
 LineEdit/constants/minimum_spaces = 12

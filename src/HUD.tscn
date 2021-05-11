@@ -30,8 +30,9 @@ __meta__ = {
 anchor_left = 0.5
 anchor_right = 0.5
 margin_left = -439.0
+margin_top = 7.0
 margin_right = 439.0
-margin_bottom = 67.0
+margin_bottom = 71.0
 theme = ExtResource( 5 )
 custom_constants/separation = 6
 __meta__ = {
@@ -43,7 +44,7 @@ __meta__ = {
 "operation_buttongroup",
 ]]
 margin_right = 122.0
-margin_bottom = 67.0
+margin_bottom = 64.0
 toggle_mode = true
 group = ExtResource( 3 )
 text = " Double "
@@ -56,7 +57,7 @@ __meta__ = {
 ]]
 margin_left = 128.0
 margin_right = 264.0
-margin_bottom = 67.0
+margin_bottom = 64.0
 toggle_mode = true
 group = ExtResource( 3 )
 text = " Add row "
@@ -69,7 +70,7 @@ __meta__ = {
 ]]
 margin_left = 270.0
 margin_right = 434.0
-margin_bottom = 67.0
+margin_bottom = 64.0
 toggle_mode = true
 group = ExtResource( 3 )
 text = " Five rows "
@@ -82,7 +83,7 @@ __meta__ = {
 ]]
 margin_left = 440.0
 margin_right = 590.0
-margin_bottom = 67.0
+margin_bottom = 64.0
 toggle_mode = true
 group = ExtResource( 3 )
 text = " Ten rows "
@@ -93,7 +94,7 @@ __meta__ = {
 [node name="ResetButton" type="Button" parent="VBoxContainer"]
 margin_left = 596.0
 margin_right = 704.0
-margin_bottom = 67.0
+margin_bottom = 64.0
 text = " Reset "
 __meta__ = {
 "_edit_use_anchors_": false
@@ -102,7 +103,7 @@ __meta__ = {
 [node name="AnswerBox" type="LineEdit" parent="VBoxContainer"]
 margin_left = 710.0
 margin_right = 878.0
-margin_bottom = 67.0
+margin_bottom = 64.0
 grow_horizontal = 2
 align = 1
 max_length = 4

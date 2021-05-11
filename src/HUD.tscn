@@ -123,9 +123,9 @@ anchor_top = 1.0
 anchor_right = 0.5
 anchor_bottom = 1.0
 margin_left = -439.0
-margin_top = -63.8079
+margin_top = -67.3181
 margin_right = 439.0
-margin_bottom = 26.1921
+margin_bottom = 15.6819
 theme = ExtResource( 5 )
 __meta__ = {
 "_edit_group_": true,
@@ -134,28 +134,28 @@ __meta__ = {
 
 [node name="x1CheckBox" type="Button" parent="VBoxContainer2"]
 margin_right = 66.0
-margin_bottom = 90.0
+margin_bottom = 83.0
 toggle_mode = true
 text = " 1x "
 
 [node name="x2CheckBox" type="Button" parent="VBoxContainer2"]
 margin_left = 70.0
 margin_right = 136.0
-margin_bottom = 90.0
+margin_bottom = 83.0
 toggle_mode = true
 text = " 2x "
 
 [node name="x3CheckBox" type="Button" parent="VBoxContainer2"]
 margin_left = 140.0
 margin_right = 206.0
-margin_bottom = 90.0
+margin_bottom = 83.0
 toggle_mode = true
 text = " 3x "
 
 [node name="x4CheckBox" type="Button" parent="VBoxContainer2"]
 margin_left = 210.0
 margin_right = 276.0
-margin_bottom = 90.0
+margin_bottom = 83.0
 theme = ExtResource( 5 )
 toggle_mode = true
 pressed = true
@@ -164,56 +164,56 @@ text = " 4x "
 [node name="x5CheckBox" type="Button" parent="VBoxContainer2"]
 margin_left = 280.0
 margin_right = 346.0
-margin_bottom = 90.0
+margin_bottom = 83.0
 toggle_mode = true
 text = " 5x "
 
 [node name="x6CheckBox" type="Button" parent="VBoxContainer2"]
 margin_left = 350.0
 margin_right = 416.0
-margin_bottom = 90.0
+margin_bottom = 83.0
 toggle_mode = true
 text = " 6x "
 
 [node name="x7CheckBox" type="Button" parent="VBoxContainer2"]
 margin_left = 420.0
 margin_right = 486.0
-margin_bottom = 90.0
+margin_bottom = 83.0
 toggle_mode = true
 text = " 7x "
 
 [node name="x8CheckBox" type="Button" parent="VBoxContainer2"]
 margin_left = 490.0
 margin_right = 556.0
-margin_bottom = 90.0
+margin_bottom = 83.0
 toggle_mode = true
 text = " 8x "
 
 [node name="x9CheckBox" type="Button" parent="VBoxContainer2"]
 margin_left = 560.0
 margin_right = 626.0
-margin_bottom = 90.0
+margin_bottom = 83.0
 toggle_mode = true
 text = " 9x "
 
 [node name="x10CheckBox" type="Button" parent="VBoxContainer2"]
 margin_left = 630.0
 margin_right = 710.0
-margin_bottom = 90.0
+margin_bottom = 83.0
 toggle_mode = true
 text = " 10x "
 
 [node name="x11CheckBox" type="Button" parent="VBoxContainer2"]
 margin_left = 714.0
 margin_right = 794.0
-margin_bottom = 90.0
+margin_bottom = 83.0
 toggle_mode = true
 text = " 11x "
 
 [node name="x12CheckBox" type="Button" parent="VBoxContainer2"]
 margin_left = 798.0
 margin_right = 878.0
-margin_bottom = 90.0
+margin_bottom = 83.0
 toggle_mode = true
 text = " 12x "
 

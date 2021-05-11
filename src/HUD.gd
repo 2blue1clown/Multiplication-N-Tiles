@@ -65,7 +65,7 @@ func _on_AnswerBox_text_entered(new_text):
 	
 
 func _on_QuestionGen_display_question(i ,j , ans):
-	q_str = "" + str(i) + " x " + str(j)
+	q_str = "" + str(i) + " x " + str(j) + " = "
 	q_ans = ans
 	get_node("Message").text = q_str
 	get_node("NextQuestionButton").visible = false

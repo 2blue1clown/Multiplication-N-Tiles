@@ -123,9 +123,9 @@ anchor_top = 1.0
 anchor_right = 0.5
 anchor_bottom = 1.0
 margin_left = -439.0
-margin_top = -67.3181
+margin_top = -75.2551
 margin_right = 439.0
-margin_bottom = 15.6819
+margin_bottom = 7.74487
 theme = ExtResource( 5 )
 __meta__ = {
 "_edit_group_": true,
